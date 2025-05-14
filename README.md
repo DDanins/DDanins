@@ -1,6 +1,6 @@
 <!-- Level 3: Add custom code -->
 
-# Hi, I'm Daniel!
+# 🙋‍♂️ Hi, I’m Daniel
 👨‍💻 Data Analyst & Neuroscience Researcher  
 👩‍🎓 Veterinarian, MSc in Health Sciences, currently specializing in Systems Analysis with a focus on Data Analysis.  
 💻 Member of BunkerCODE, a collaborative project developing practical and innovative technology solutions.  
