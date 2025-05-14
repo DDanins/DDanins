@@ -1,10 +1,10 @@
 <!-- Level 3: Add custom code -->
-
 # 🙋‍♂️ Hi, I’m Daniel
-👨‍💻 Data Analyst & Neuroscience Researcher  
-👩‍🎓 Veterinarian, MSc in Health Sciences, currently specializing in Systems Analysis with a focus on Data Analysis.  
-💻 Member of BunkerCODE, a collaborative project developing practical and innovative technology solutions.  
-💭 Expanding skills in Data Analytics, Business Intelligence, and Data Storytelling to drive actionable, insight-driven decisions.
+📊 Data Analyst & Neuroscience Researcher  
+👩‍🎓 Veterinarian | MSc in Health Sciences | Specializing in Data Analysis and Systems Development  
+💻 Member of BunkerCODE – Developing innovative tech solutions  
+💭 Expanding expertise in Data Analytics, Business Intelligence, and Data Storytelling to drive actionable insights.
+
 
 <!-- GitHub stats from https://github.com/ddanins/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=ddanins&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
