@@ -3,7 +3,7 @@
 👩‍🎓 Veterinarian | MSc in Health Sciences | Specializing in Data Analysis and Systems Development  
 💻 Member of BunkerCODE – Developing innovative tech solutions  
 💭 Expanding expertise in Data Analytics, Business Intelligence, and Data Storytelling to drive actionable insights.  
-🏃‍♂️ Outside of work, I enjoy street running and photography. Check out my [Photography Portfolio](https://ddanins.myportfolio.com/) and let's connect on [Strava](https://strava.app.link/FATBRaGYmTb)!
+🏃‍♂️ Outside of work, I enjoy photography and street running. Check out my [Photography Portfolio](https://ddanins.myportfolio.com/) and let's connect on [Strava](https://strava.app.link/FATBRaGYmTb)!
 
 
 
